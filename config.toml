@@ -1,0 +1,41 @@
+baseURL = 'https://newspreadnow.com/'
+title = 'NewspreadNow'
+defaultContentLanguage = 'us'
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+  [languages.us]
+  languageName = 'English (US)'
+  weight = 1
+  baseURL = 'https://us.newspreadnow.com/'
+
+  [languages.uk]
+  languageName = 'English (UK)'
+  weight = 2
+  baseURL = 'https://uk.newspreadnow.com/'
+
+  [languages.ca]
+  languageName = 'English (CA)'
+  weight = 3
+  baseURL = 'https://ca.newspreadnow.com/'
+
+  [languages.au]
+  languageName = 'English (AU)'
+  weight = 4
+  baseURL = 'https://au.newspreadnow.com/'
+
+  [languages.de]
+  languageName = 'Deutsch (DE)'
+  weight = 5
+  baseURL = 'https://de.newspreadnow.com/'
+
+  [languages.ch]
+  languageName = 'Deutsch (CH)'
+  weight = 6
+  baseURL = 'https://ch.newspreadnow.com/'
+
+  [languages.sg]
+  languageName = 'English (SG)'
+  weight = 7
+  baseURL = 'https://sg.newspreadnow.com/'

@@ -1,0 +1,4 @@
+baseURL = 'https://de.newspreadnow.com/'
+languageCode = 'en-de'
+title = 'NewspreadNow de Edition'
+defaultContentLanguage = 'en'
