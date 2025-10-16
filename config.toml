@@ -1,26 +1,26 @@
-baseURL = 'https://newspreadnow.com/'
+baseURL = "https://bounty.newspreadnow.com/"
 title = 'NewspreadNow'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
 [languages]
-  [languages.us] baseURL = 'https://us.newspreadnow.com/' languageName = 'English (US)' weight = 1
-  [languages.uk] baseURL = 'https://uk.newspreadnow.com/' languageName = 'English (UK)' weight = 2
-  [languages.ca] baseURL = 'https://ca.newspreadnow.com/' languageName = 'English (CA)' weight = 3
-  [languages.au] baseURL = 'https://au.newspreadnow.com/' languageName = 'English (AU)' weight = 4
-  [languages.de] baseURL = 'https://de.newspreadnow.com/' languageName = 'Deutsch (DE)' weight = 5
-  [languages.ch] baseURL = 'https://ch.newspreadnow.com/' languageName = 'Deutsch (CH)' weight = 6
-  [languages.sg] baseURL = 'https://sg.newspreadnow.com/' languageName = 'English (SG)' weight = 7
-  [languages.no] baseURL = 'https://no.newspreadnow.com/' languageName = 'Norwegian' weight = 8
-  [languages.se] baseURL = 'https://se.newspreadnow.com/' languageName = 'Swedish' weight = 9
-  [languages.nl] baseURL = 'https://nl.newspreadnow.com/' languageName = 'Dutch' weight = 10
-  [languages.dk] baseURL = 'https://dk.newspreadnow.com/' languageName = 'Danish' weight = 11
-  [languages.fi] baseURL = 'https://fi.newspreadnow.com/' languageName = 'Finnish' weight = 12
-  [languages.ae] baseURL = 'https://ae.newspreadnow.com/' languageName = 'English (UAE)' weight = 13
-  [languages.nz] baseURL = 'https://nz.newspreadnow.com/' languageName = 'English (NZ)' weight = 14
-  [languages.il] baseURL = 'https://il.newspreadnow.com/' languageName = 'English (IL)' weight = 15
-  [languages.jp] baseURL = 'https://jp.newspreadnow.com/' languageName = '日本語 (JP)' weight = 16
-  [languages.kr] baseURL = 'https://kr.newspreadnow.com/' languageName = '한국어 (KR)' weight = 17
-  [languages.fr] baseURL = 'https://fr.newspreadnow.com/' languageName = 'Français (FR)' weight = 18
-  [languages.it] baseURL = 'https://it.newspreadnow.com/' languageName = 'Italiano (IT)' weight = 19
-  [languages.es] baseURL = 'https://es.newspreadnow.com/' languageName = 'Español (ES)' weight = 20
+  [languages.us] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.uk] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.ca] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.au] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.de] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.ch] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.sg] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.no] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.se] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.nl] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.dk] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.fi] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.ae] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.nz] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.il] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.jp] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.kr] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.fr] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.it] baseURL = "https://bounty.newspreadnow.com/"
+  [languages.es] baseURL = "https://bounty.newspreadnow.com/"
