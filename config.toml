@@ -39,3 +39,27 @@ defaultContentLanguageInSubdir = true
   languageName = 'English (SG)'
   weight = 7
   baseURL = 'https://sg.newspreadnow.com/'
+  [languages.dk]
+  languageName = 'Danish'
+  weight = 11
+  baseURL = 'https://dk.newspreadnow.com/'
+
+  [languages.fi]
+  languageName = 'Finnish'
+  weight = 12
+  baseURL = 'https://fi.newspreadnow.com/'
+
+  [languages.ae]
+  languageName = 'English (UAE)'
+  weight = 13
+  baseURL = 'https://ae.newspreadnow.com/'
+
+  [languages.nz]
+  languageName = 'English (NZ)'
+  weight = 14
+  baseURL = 'https://nz.newspreadnow.com/'
+
+  [languages.il]
+  languageName = 'English (IL)'
+  weight = 15
+  baseURL = 'https://il.newspreadnow.com/'

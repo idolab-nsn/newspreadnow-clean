@@ -1,0 +1,4 @@
+baseURL = 'https://dk.newspreadnow.com/'
+languageCode = 'dk-dk'
+title = 'NewspreadNow dk Edition'
+defaultContentLanguage = 'en'
