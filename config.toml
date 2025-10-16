@@ -1,79 +1,26 @@
 baseURL = 'https://newspreadnow.com/'
 title = 'NewspreadNow'
-defaultContentLanguage = 'us'
+defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
 [languages]
-
-  [languages.us]
-  languageName = 'English (US)'
-  weight = 1
-  baseURL = 'https://us.newspreadnow.com/'
-
-  [languages.uk]
-  languageName = 'English (UK)'
-  weight = 2
-  baseURL = 'https://uk.newspreadnow.com/'
-
-  [languages.ca]
-  languageName = 'English (CA)'
-  weight = 3
-  baseURL = 'https://ca.newspreadnow.com/'
-
-  [languages.au]
-  languageName = 'English (AU)'
-  weight = 4
-  baseURL = 'https://au.newspreadnow.com/'
-
-  [languages.de]
-  languageName = 'Deutsch (DE)'
-  weight = 5
-  baseURL = 'https://de.newspreadnow.com/'
-
-  [languages.ch]
-  languageName = 'Deutsch (CH)'
-  weight = 6
-  baseURL = 'https://ch.newspreadnow.com/'
-
-  [languages.sg]
-  languageName = 'English (SG)'
-  weight = 7
-  baseURL = 'https://sg.newspreadnow.com/'
-  [languages.dk]
-  languageName = 'Danish'
-  weight = 11
-  baseURL = 'https://dk.newspreadnow.com/'
-
-  [languages.fi]
-  languageName = 'Finnish'
-  weight = 12
-  baseURL = 'https://fi.newspreadnow.com/'
-
-  [languages.ae]
-  languageName = 'English (UAE)'
-  weight = 13
-  baseURL = 'https://ae.newspreadnow.com/'
-
-  [languages.nz]
-  languageName = 'English (NZ)'
-  weight = 14
-  baseURL = 'https://nz.newspreadnow.com/'
-
-  [languages.il]
-  languageName = 'English (IL)'
-  weight = 15
-  baseURL = 'https://il.newspreadnow.com/'
-  [languages.no]
-  languageName = 'Norwegian'
-  weight = 8
-  baseURL = 'https://no.newspreadnow.com/'
-
-  [languages.se]
-  languageName = 'Swedish'
-  weight = 9
-  baseURL = 'https://se.newspreadnow.com/'
-
-  [languages.nl]
-  languageName = 'Dutch'
-  weight = 10
-  baseURL = 'https://nl.newspreadnow.com/'
+  [languages.us]  baseURL = 'https://us.newspreadnow.com/'  languageName = 'English (US)'   weight = 1
+  [languages.uk]  baseURL = 'https://uk.newspreadnow.com/'  languageName = 'English (UK)'   weight = 2
+  [languages.ca]  baseURL = 'https://ca.newspreadnow.com/'  languageName = 'English (CA)'   weight = 3
+  [languages.au]  baseURL = 'https://au.newspreadnow.com/'  languageName = 'English (AU)'   weight = 4
+  [languages.de]  baseURL = 'https://de.newspreadnow.com/'  languageName = 'Deutsch (DE)'   weight = 5
+  [languages.ch]  baseURL = 'https://ch.newspreadnow.com/'  languageName = 'Deutsch (CH)'   weight = 6
+  [languages.sg]  baseURL = 'https://sg.newspreadnow.com/'  languageName = 'English (SG)'   weight = 7
+  [languages.no]  baseURL = 'https://no.newspreadnow.com/'  languageName = 'Norwegian'      weight = 8
+  [languages.se]  baseURL = 'https://se.newspreadnow.com/'  languageName = 'Swedish'        weight = 9
+  [languages.nl]  baseURL = 'https://nl.newspreadnow.com/'  languageName = 'Dutch'          weight = 10
+  [languages.dk]  baseURL = 'https://dk.newspreadnow.com/'  languageName = 'Danish'         weight = 11
+  [languages.fi]  baseURL = 'https://fi.newspreadnow.com/'  languageName = 'Finnish'        weight = 12
+  [languages.ae]  baseURL = 'https://ae.newspreadnow.com/'  languageName = 'English (UAE)'  weight = 13
+  [languages.nz]  baseURL = 'https://nz.newspreadnow.com/'  languageName = 'English (NZ)'   weight = 14
+  [languages.il]  baseURL = 'https://il.newspreadnow.com/'  languageName = 'English (IL)'   weight = 15
+  [languages.jp]  baseURL = 'https://jp.newspreadnow.com/'  languageName = '日本語'         weight = 16
+  [languages.kr]  baseURL = 'https://kr.newspreadnow.com/'  languageName = '한국어'         weight = 17
+  [languages.fr]  baseURL = 'https://fr.newspreadnow.com/'  languageName = 'Français'       weight = 18
+  [languages.it]  baseURL = 'https://it.newspreadnow.com/'  languageName = 'Italiano'       weight = 19
+  [languages.es]  baseURL = 'https://es.newspreadnow.com/'  languageName = 'Español'        weight = 20
