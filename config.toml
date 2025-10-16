@@ -63,3 +63,17 @@ defaultContentLanguageInSubdir = true
   languageName = 'English (IL)'
   weight = 15
   baseURL = 'https://il.newspreadnow.com/'
+  [languages.no]
+  languageName = 'Norwegian'
+  weight = 8
+  baseURL = 'https://no.newspreadnow.com/'
+
+  [languages.se]
+  languageName = 'Swedish'
+  weight = 9
+  baseURL = 'https://se.newspreadnow.com/'
+
+  [languages.nl]
+  languageName = 'Dutch'
+  weight = 10
+  baseURL = 'https://nl.newspreadnow.com/'
