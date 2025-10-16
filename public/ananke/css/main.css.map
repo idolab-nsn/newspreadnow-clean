@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/limhansin/newspreadnow-clean",
+	"sourceRoot": "D:/limhansin/idolab-nsn/newspreadnow-clean",
 	"sources": [
 		"ananke/css/main.css"
 	],
