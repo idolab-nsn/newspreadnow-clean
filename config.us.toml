@@ -1,3 +1,7 @@
 baseURL = "https://us.newspreadnow.com/"
-
-theme = "ananke"
+languageCode = "en"
+title = "Newspreadnow (us)"
+disableKinds = ["taxonomy","taxonomyTerm"]
+[sitemap]
+  filename = "sitemap.xml"
+  priority = -1

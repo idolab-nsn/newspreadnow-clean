@@ -1,3 +1,7 @@
 baseURL = "https://dk.newspreadnow.com/"
-
-theme = "ananke"
+languageCode = "en"
+title = "Newspreadnow (dk)"
+disableKinds = ["taxonomy","taxonomyTerm"]
+[sitemap]
+  filename = "sitemap.xml"
+  priority = -1

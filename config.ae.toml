@@ -1,6 +1,6 @@
-baseURL = "https://jp.newspreadnow.com/"
+baseURL = "https://ae.newspreadnow.com/"
 languageCode = "en"
-title = "Newspreadnow (jp)"
+title = "Newspreadnow (ae)"
 disableKinds = ["taxonomy","taxonomyTerm"]
 [sitemap]
   filename = "sitemap.xml"

@@ -1,26 +1,12 @@
-baseURL = "https://bounty.newspreadnow.com/"
-title = 'NewspreadNow'
-defaultContentLanguage = 'en'
+baseURL = "https://newspreadnow.com/"
+languageCode = "en-us"
+title = "Newspreadnow"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-
-[languages]
-  [languages.us] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.uk] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.ca] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.au] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.de] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.ch] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.sg] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.no] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.se] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.nl] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.dk] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.fi] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.ae] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.nz] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.il] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.jp] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.kr] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.fr] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.it] baseURL = "https://bounty.newspreadnow.com/"
-  [languages.es] baseURL = "https://bounty.newspreadnow.com/"
+buildDrafts = false
+disableKinds = ["taxonomy","taxonomyTerm"]
+[sitemap]
+  filename = "sitemap.xml"
+  priority = -1
+[params]
+  author = "Newspreadnow"
