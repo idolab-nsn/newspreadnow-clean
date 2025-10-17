@@ -1,7 +1,3 @@
 baseURL = "https://ca.newspreadnow.com/"
 languageCode = "en"
-title = "Newspreadnow (ca)"
-disableKinds = ["taxonomy","taxonomyTerm"]
-[sitemap]
-  filename = "sitemap.xml"
-  priority = -1
+title = "ca | Newspreadnow"
