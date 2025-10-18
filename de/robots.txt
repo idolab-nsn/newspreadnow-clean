@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://de.newspreadnow.com/sitemap.xml
